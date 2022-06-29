@@ -7,4 +7,4 @@ Now available via https://packagist.org/
 
 #### Installation
 * Require the Module
-``` composer require reessolutions/db-override:* ```
+``` composer require nexcess/db-override:* ```
