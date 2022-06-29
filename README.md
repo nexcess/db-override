@@ -6,3 +6,9 @@ Now available via https://packagist.org/
 #### Installation
 * Require the Module
 ``` composer require nexcess-magento/db-override:* ```
+
+#### Credit
+            "name": "Mark Rees",
+            "email": "mark@rees.solutions",
+            "homepage": "http://www.rees.solutions/",
+            "role": "Developer"
