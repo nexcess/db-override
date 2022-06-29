@@ -1,10 +1,8 @@
 ## ReesSolutions DBOverride
 
-Override Module to allow MariaDB 10.5 to 10.9 support for development.
+Override Module to allow MariaDB 10.5 to 10.6 support for Magento 2
 Now available via https://packagist.org/
-
-### Use this module at your own risk in production. Versions higher than MariaDB 10.4 have no offical support.
 
 #### Installation
 * Require the Module
-``` composer require nexcess/db-override:* ```
+``` composer require nexcess-magento/db-override:* ```
